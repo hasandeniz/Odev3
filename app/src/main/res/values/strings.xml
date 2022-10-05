@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="appBarTitle">Details</string>
+    <string name="filmAciklamasi">In “Top Gun: Maverick,” the breathless, gravity and logic-defying “Top Gun” sequel that somehow makes all the sense in the world despite landing more than three decades after the late Tony Scott’s original, an admiral refers to Tom Cruise’s navy aviator Pete Mitchell—call sign “Maverick”—as “the fastest man alive.”</string>
+    <string name="filmAdi">Top Gun: Maverick</string>
+    <string name="yonetmenAdi">By Joseph Kosinski</string>
+    <string name="filmPuani">8.4/10</string>
+    <string name="istekListesineEkle">Wishlist</string>
+    <string name="simdiIzle">Watch now</string>
+    <string name="aciklama">Description</string>
+</resources>
