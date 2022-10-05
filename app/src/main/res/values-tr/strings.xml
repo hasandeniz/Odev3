@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Odev3</string>
+    <string name="app_name">Film İzle</string>
     <string name="appBarTitle">Detaylar</string>
     <string name="filmAciklamasi">"Tony Scott'ın orijinal filminden otuz yıldan fazla bir süre sonra iniş yapmasına rağmen dünyada bir şekilde anlam ifade eden nefes kesici, yerçekimine ve mantığa meydan okuyan “Top Gun” devam filmi “Top Gun: Maverick”te, bir amiral Tom Cruise'un donanmasına atıfta bulunuyor."</string>
     <string name="filmAdi">Top Gun: Maverick</string>
